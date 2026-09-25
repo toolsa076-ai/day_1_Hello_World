@@ -1,2 +1,1 @@
-
-print("Hello world_day1")
+print(hello)
