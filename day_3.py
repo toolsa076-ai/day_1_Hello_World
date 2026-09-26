@@ -9,4 +9,4 @@ print(float(new_age) + 9)
 
 print(bool(new_age) + 5)
 sum = int(num) + float(new_age)
-print(sum)S
+print(sum)
